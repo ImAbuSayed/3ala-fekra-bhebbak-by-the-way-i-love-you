@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني اللي بقلبي ساكن
+> حبك بدمي وفي روحي ماكن
+> شوقي لك بحر ماله حدود
+> معاك أحس إن الفرح موجود
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
